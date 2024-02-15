@@ -12,7 +12,6 @@ int main(){
   auto e = list.end();
   // list.insert(e,5);
   
-
     // cout <<list[2]<< endl;
     // cout<<list.back()<<endl;
     // cout<<v.empty()<<endl;
