@@ -35,8 +35,8 @@ void findIntersection(int arr1[], int arr2[], int n1, int n2){
 }
 
 int main(){
-    int arr1[] = {1,2,2,2,3,4};
-    int arr2[] = {2,2,3,3};
+    int arr1[] = {1,2,3};
+    int arr2[] = {3,4};
     int n1 = sizeof(arr1)/sizeof(int);
     int n2 = sizeof(arr2)/sizeof(int);
     findIntersection(arr1,arr2,n1,n2);
