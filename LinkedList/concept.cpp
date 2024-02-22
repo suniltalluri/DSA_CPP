@@ -7,7 +7,9 @@ struct  node
     struct node *next;
 };
 
-void printLinkedList(struct node)
+void printLinkedList(struct node){
+    
+}
 
 int main(){
 
